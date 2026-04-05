@@ -1,5 +1,5 @@
 {
-  "name": "Admin Dashboard Login",
+  "name": "QAdmin Dashboard Login",
   "description": "A professional login page for an admin dashboard management system with email validation and password visibility toggle.",
   "requestFramePermissions": []
 }
